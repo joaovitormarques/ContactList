@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <string name="hint_name">Nome</string>
+    <string name="genero">Gênero</string>
+    <string name="hint_phone">Telefone</string>
+    <string name="salvar_button">Salvar</string>
+    <string-array name="genders_spinner">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+</resources>
