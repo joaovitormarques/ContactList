@@ -4,6 +4,8 @@
     <string name="genero">Gênero</string>
     <string name="hint_phone">Telefone</string>
     <string name="salvar_button">Salvar</string>
+    <string name="NEW_CONTACT">contato</string>
+    <string name="invalid_field">Campo inválido</string>
     <string-array name="genders_spinner">
         <item>Masculino</item>
         <item>Feminino</item>

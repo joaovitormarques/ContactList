@@ -5,7 +5,7 @@ package com.example.joaovitor.contactlist.model;
  */
 
 public enum Gender {
-    Masculino("Masculino"), Feminino("Feminino");
+    Male("Masculino"), Female("Feminino");
 
     private final String gender;
 
@@ -13,6 +13,7 @@ public enum Gender {
         this.gender = gender;
     }
 
+    @Override
     public String toString() {
         return this.gender;
     }
